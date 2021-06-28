@@ -1,5 +1,5 @@
 export default function Login() {
   return (
-   <div>Student Login Page</div>
+   <div>Login Page</div>
   )
 }

@@ -1,5 +1,5 @@
 export default function EmailVerification() {
     return (
-     <div>Admin Email Verification Page</div>
+     <div>Email Verification</div>
     )
   }
