@@ -1,4 +1,4 @@
-import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit'
+import { configureStore } from '@reduxjs/toolkit'
 
 export function makeStore() {
   return configureStore({
